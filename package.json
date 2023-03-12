@@ -10,7 +10,7 @@
   },
   "devDependencies": {},
   "peerDependencies": {
-    "@strapi/strapi": "^4.0.0"
+    "@strapi/strapi": "^4.7.1"
   },
   "author": {
     "name": "exFabrica.io",
@@ -25,7 +25,7 @@
     }
   ],
   "engines": {
-    "node": ">=12.x.x <=18.x.x",
+    "node": ">=16.x.x <=18.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT",
